@@ -29,7 +29,6 @@ void setup() {
 delay(3000); 
 lcd.clear();
 
-   
 }
 
 void loop() {
